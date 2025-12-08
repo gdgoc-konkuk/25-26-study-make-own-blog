@@ -45,6 +45,9 @@ https://www.figma.com/design/H3o6wQ3eHcKCrprP5TyiRr/i-log?node-id=0-1&t=lAmfDgtm
 | **완료 조건 (2차)** | **실제 URL로 접속 가능하며, 마크다운 콘텐츠가 정상 출력되는 블로그 완성.** |  |
 
 
+
+
+
 ## 피드백
 
 1주차에 선배포를 추가하는 게 좋을 듯

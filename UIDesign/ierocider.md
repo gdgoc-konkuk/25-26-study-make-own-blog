@@ -2,8 +2,9 @@
 
 이름: itzel’s log
 
-포인트 색: 1. #DF5F2C 
+포인트 색: 
 
+                  1. #DF5F2C 
                   2. #FFFCEA
 
 카테고리: Study(IT, Graphic, Design) / Projects / 자격증 준비
